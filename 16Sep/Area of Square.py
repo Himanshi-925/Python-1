@@ -1,3 +1,4 @@
 #Area of Square
 side = int(input('Enter the side of square: '))
-print("area of square is", side**2)
+area = side**2
+print("Area of square is = ",area)
